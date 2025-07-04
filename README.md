@@ -37,7 +37,7 @@ products-api/
 bash
 Copy
 Edit
-git clone https://github.com/your-username/products-api.git
+git clone https://github.com/AmanT776/products-api.git
 cd products-api
 2. Install Dependencies
 bash
